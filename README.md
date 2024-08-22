@@ -36,9 +36,9 @@
   - Implement filtering options by user name and email in the same box.
   3. Your design of the ticket page should adhere to the Figma design: [Figma Design.](https://www.figma.com/design/3UhOy22CSHLL4WBW3vzrR7/ACX-Test-Task)
   4. The Activity Log part requirement has changed. Now it should be named Activity Summary, and it should contain:
-    - Instead of VPN, Restricted, labels it should display the detected security words such as "Account Hacked".
-    - The digestion and summary of all the activity of the user based on their conversation with the agent (use ChatGPT in the backend).
-    - When clicked on, it should open a dropdown similar to the ticket history, showing the conversation in which the security word was detected. It's up to you to show what you think is necessary information in this part.
+  - Instead of VPN, Restricted, labels it should display the detected security words such as "Account Hacked".
+  - The digestion and summary of all the activity of the user based on their conversation with the agent (use ChatGPT in the backend).
+  - When clicked on, it should open a dropdown similar to the ticket history, showing the conversation in which the security word was detected. It's up to you to show what you think is necessary information in this part.
 
 ## Evaluation Criteria
 
