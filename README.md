@@ -29,11 +29,11 @@
 ### Frontend
   1. Use React.js, Angular, MVC, or any other frontend library to build a simple but representable interface.
   2. The Home page design is missing intentionally. Create it such that:
-    - It displays the list of users fetched from the mock API.
-    - Once we click on a user, it should redirect to the ticket page that contains conversations for that user only.
-    - Display the following information for each user: user name and ticket count.
-    - Implement sorting alphabetically by user name.
-    - Implement filtering options by user name and email in the same box.
+  - It displays the list of users fetched from the mock API.
+  - Once we click on a user, it should redirect to the ticket page that contains conversations for that user only.
+  - Display the following information for each user: user name and ticket count.
+  - Implement sorting alphabetically by user name.
+  - Implement filtering options by user name and email in the same box.
   3. Your design of the ticket page should adhere to the Figma design: [Figma Design.](https://www.figma.com/design/3UhOy22CSHLL4WBW3vzrR7/ACX-Test-Task)
   4. The Activity Log part requirement has changed. Now it should be named Activity Summary, and it should contain:
     - Instead of VPN, Restricted, labels it should display the detected security words such as "Account Hacked".
